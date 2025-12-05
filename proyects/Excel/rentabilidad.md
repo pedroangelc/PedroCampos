@@ -20,7 +20,7 @@ Dar visibilidad de los indicadores financieros importantes para toma de desicion
 <div style="top: 10px; right: 10px;">
   <a href="Rentabilidad.jpg" target="_blank">
   <img src="Rentabilidad.jpg" style="width:420px; height:auto; border-radius:8px;">
-    <a/>
+  </a>
 </div>
 
 [Descargar archivo ](proyects/Excel/Rentabilidad.xlsx)
