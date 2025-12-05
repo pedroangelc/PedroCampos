@@ -20,4 +20,4 @@ Poporcionar la visibilidad requerida de la situación financiera con respecto a 
 ## Archivo
 - [Dashboard interactivo de de rentabilidad](proyects/Excel/Rentabilidad.xlsx)
 
-## [← Regresar a Proyectos/Excel](../excel/index.md)
+## [← Regresar a Proyectos/Excel](../Excel/index.md)
