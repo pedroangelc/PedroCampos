@@ -22,7 +22,7 @@ Mostrar la ceratividad para la visualización de los datos y la funcionalidad de
 - [Rentabilidad](../Excel/rentabilidad.md)
 - [Venta general](../Excel/VentaGeneral.md)
 - [Altas y nueva venta](../Excel/NuevaVenta.md)
-- [Venta General Región-Gerencia](VentaRegionGerencia.xlsm)
+- [Venta General Región-Gerencia](VentaRegionGerencia.md)
 
 ## Abrir con:
 - Excel 365 o compatible
