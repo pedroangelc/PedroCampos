@@ -1,12 +1,12 @@
 <div style="top: 10px; right: 10px;">
-  <img src="MyPhoto.png" style="width:220px; height:auto; border-radius:8px;">
+  <img src="PedroC.png" style="width:220px; height:auto; border-radius:8px;">
 </div>
 
 
 
 
 
-Bienvenido a mi portafolio profesional, donde presento proyectos desarrollados con Excel, Power BI y SQL enfocados en análisis de datos, automatización de procesos y generación de insights para la toma de decisiones estratégicas.
+Bienvenido a mi PORTAFOLIO PROFESIONAL, en el que presento proyectos propios desarrollados con **Excel**, **Power BI** y **SQL** enfocados en análisis de datos, automatización de procesos y generación de <i>insights</i> para la toma de decisiones estratégicas.
 
 ## Sobre mí
 
