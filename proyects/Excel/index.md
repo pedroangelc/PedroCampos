@@ -1,4 +1,4 @@
-# Reportes y dashboards
+# Reportes y dashboards de Excel
 Análisis desarrollado en Excel utilizando fórmulas avanzadas, tablas, tablas dinámicas, gráficas dinámicas, segmentación de datos, vincuilación y filtrado avanzado.
 
 ## Objetivo
