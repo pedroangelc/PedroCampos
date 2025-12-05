@@ -13,7 +13,7 @@ Mostrar la ceratividad para la visualización de los datos y la funcionalidad de
 - Segmentación
 - Tablas
 
-## Contenido
+## Metodología de trabajo
 - ETL: descarga y tras}nsformació de información de CRM y diversos archivos de varias áreas
 - Modelo: Estructuracón mediante tablas, tablas dinámicas y fómulas
 - Reporte / Dashboard: Visalización de rentabilidad por área geográfica (estado, región), gerencia, ejecutivo, centro de proceso, cliente; utilidad anual, calificación de centro proceso según su rentabilidad.
