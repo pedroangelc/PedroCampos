@@ -3,8 +3,9 @@
 ## Descripción
 Tablero con mapa geográfico en el que se muestran por separadao y en la misma pantalla: rentabilidad, utilidad y porcentage de crecimiento. Segmentación ineractiva por región y por cliente, así como calificación por centro de proceso; con respecto al año anterior.
 
-## Objetivo  
-Dar visibilidad de los indicadores financieros importantes para toma de desiciones estratégicas.
+## Objetivo y solución  
+Mejorar la visibilidad de los indicadores financieros importantes que anteriormente se presentaban en un archivo de 8 hojas que había que actualizar manualmente cada gráfica mes con mes.  
+Este archivo se actualiza únicamente agregando los datos nuevos en la hoja de datos.
 
 ## Procesos aplicados
 - Limpieza de datos
