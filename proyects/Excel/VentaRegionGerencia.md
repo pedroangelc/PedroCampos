@@ -1,38 +1,44 @@
 # Venta general (por región y gerencia) - Dashboard
 
 ## Descripción
-Dashboards interactivos que mediante gráficas dinámicas dan visibilidad y hacen la comparación, de la venta anual acumulada y mensual, dividida en varios indicadores
+Dashboard interactivo diseñado para analizar el desempeño comercial anual y mensual, con comparaciones directas entre 2021 y 2022. A través de segmentaciones avanzadas, permite visualizar la contribución de cada región, estado, gerencia, centro de proceso, ejecutivo y cliente. Las gráficas dinámicas facilitan la interpretación de tendencias, comportamientos estacionales y variaciones relevantes en las ventas, optimizando la toma de decisiones estratégicas.
 
 ## Objetivo
-Visualizar la tendencia por zonas geográficas y personal que participan en la labor de venta en los siguientes segmentos:
+Proporcionar una vista integral y comparativa del comportamiento de ventas mediante segmentación por zonas geográficas y estructura comercial operativa. El dashboard se divide en dos análisis:
 
-En el dashboard 1 se segmentan los datos por:
+Dashboard 1:
 - General
 - Estado
 - Región
 - Gerencia
 - Centro de proceso
 
-En el dashboard 2 se segmentan los datos por:
+Dashboard 2:
 - General
 - Región
 - Gerencia
 - Ejecutivo
-- Cliente
+- Línea de negocio
+
+El propósito es ofrecer una herramienta que permita identificar tendencias, variaciones mensuales y desempeño por cada nivel del equipo comercial o territorio.
 
 ## Dataset
 - Registros: 669,172
-- Periodo: ene - dic 2021, ene - ago 2022
-- Origen: 
+- Periodo: Enero–Diciembre 2021 y Enero–Agosto 2022
+- Fuente: Reportes históricos de ventas consolidados desde distintos centros de proceso y áreas comerciales
+- Estructura: Fecha, estado, región, gerente responsable, ejecutivo de venta, cliente, monto vendido, acumulados y comparativos interanuales
 
 ## Procesos aplicados
-- Extracción Y limpieza de datos
-- Validación de información
-- Gráficas dinámicas
-- Análisis descriptivo
+- Extracción y consolidación de datos desde diversas fuentes operativas
+- Limpieza y depuración de registros inconsistentes o duplicados
+- Validación de datos para garantizar precisión y coherencia temporal
+- Modelación tabular para habilitar relaciones y segmentaciones múltiples
+- Construcción de gráficas dinámicas y elementos interactivos en Excel
+- Análisis descriptivo de tendencias, variación interanual y desempeño por segmentos comerciales
 
 ## Resulado
-- Dar visión gráfica de la situación del mismo periodo con respecto al año anterior de las ventas por cliente o línea de negocio, región, estado, gerencia, centro de proceso y ejecutivo para tomar acción y desiciones estratégicas por aprte de la dirección de la empresa.
+Herramienta visual que muestra de manera clara la evolución de las ventas respecto al año anterior, permitiendo comparar el desempeño por línea de negocio, estado, región, gerencia, centro de proceso y ejecutivo.
+El dashboard facilita a la dirección general identificar caídas, crecimientos, oportunidades y áreas de intervención inmediata, convirtiéndose en una base sólida para la toma de decisiones estratégicas.
 
 ## Screenshot
 <div style="top: 10px; right: 10px;">
