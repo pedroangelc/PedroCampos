@@ -1,21 +1,27 @@
-# Dashboard - Rentabilidad
+# Rentabilidad - Dashboard
 
 ## Descripción
-Tablero con mapa geográfico en el que se muestran por separadao y en la misma pantalla: rentabilidad, utilidad y porcentage de crecimiento. Segmentación ineractiva por región y por cliente, así como calificación por centro de proceso; con respecto al año anterior.
+Dashboard financiero diseñado para mejorar la visibilidad, análisis y toma de decisiones sobre rentabilidad, utilidad, crecimiento anual y desempeño por centro de proceso. El proyecto consistió en transformar un archivo complejo de múltiples hojas (que requería actualización manual por mes y por gráfica) en una herramienta automatizada que centraliza los datos y actualiza indicadores con solo agregar nuevos registros.  
+Incluye visualizaciones de tendencias mensuales, comparativos por cliente y centro de proceso, mapa geográfico, KPIs clave y tabla de calificaciones operativas.
 
-## Objetivo y solución  
-Mejorar la visibilidad de los indicadores financieros importantes que anteriormente se presentaban en un archivo de 8 hojas que había que actualizar manualmente cada gráfica mes con mes.  
-Este archivo se actualiza únicamente agregando los datos nuevos en la hoja de datos.
+## Objetivo
+Desarrollar un dashboard financiero unificado que automatice la actualización de métricas clave, centralice la información dispersa en múltiples hojas y facilite el análisis de rentabilidad, variación mensual, desempeño por cenro de proceso y comportamiento por línea de negocio, con el fin de mejorar la eficiencia operativa y acelerar la toma de decisiones basadas en datos.
+
+
+## Dataset
+- Registros: 844
+- Periodo: ene - dic 2021, ene - mayo 2022
+- Origen: CRM
 
 ## Procesos aplicados
-- Limpieza de datos
-- Validación de información
-- Tablas dinámicas
-- Fórmulas anidadas
-- Gráficas dinámicas
-- Segmentación de datos
-- Validación de datos
-- Análisis descriptivo
+- Recolección y organización
+- Consolidación de datos
+- Transformación y modelado
+- Visualización y automatización
+
+## Resultados
+El dashboard consolidó los indicadores financieros en una sola vista dinámica, reemplazando un archivo de 8 hojas que requería actualización manual mensual. Ahora, todos los gráficos y métricas se actualizan automáticamente al incorporar la nueva información en la hoja de datos. Esto redujo errores, disminuyó el tiempo de elaboración de reportes y permitió una lectura más ágil del desempeño financiero por estado, cliente y periodo.
+El dashboard permite identificar variaciones, comportamientos regionales y oportunidades de mejora de forma inmediata, reduciendo significativamente el tiempo de preparación del reporte y aumentando la precisión del análisis.
 
 ## Screenshot
 <div style="top: 10px; right: 10px;">
