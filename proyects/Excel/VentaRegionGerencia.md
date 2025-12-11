@@ -1,7 +1,10 @@
-# Dashboard - Venta general (por región y gerencia)
+# Venta general (por región y gerencia) - Dashboard
 
 ## Descripción
-Reporte de dos hojas en las que se encuentran dashboards interactivos que mediante gráficas dinámicas dan visibilidad y hacen la comparación, de la venta anual acumulada y mensual, dividida en varios rubros:
+Dashboards interactivos que mediante gráficas dinámicas dan visibilidad y hacen la comparación, de la venta anual acumulada y mensual, dividida en varios indicadores
+
+## Objetivo
+Visualizar la tendencia por zonas geográficas y personal que participan en la labor de venta en los siguientes segmentos:
 
 En el dashboard 1 se segmentan los datos por:
 - General
@@ -17,15 +20,19 @@ En el dashboard 2 se segmentan los datos por:
 - Ejecutivo
 - Cliente
 
-Con esta infiormación se puede visualizar la tendencia por zonas geográficas y personal que participan en la labor de venta.
+## Dataset
+- Registros: 669,172
+- Periodo: ene - dic 2021, ene - ago 2022
+- Origen: 
 
 ## Procesos aplicados
 - Extracción Y limpieza de datos
 - Validación de información
-- Cálculos
-- Tablas
 - Gráficas dinámicas
 - Análisis descriptivo
+
+## Resulado
+- Dar visión gráfica de la situación del mismo periodo con respecto al año anterior de las ventas por cliente o línea de negocio, región, estado, gerencia, centro de proceso y ejecutivo para tomar acción y desiciones estratégicas por aprte de la dirección de la empresa.
 
 ## Screenshot
 <div style="top: 10px; right: 10px;">
