@@ -1,32 +1,35 @@
 # Reportes y dashboards de Excel
-Análisis desarrollado en Excel utilizando fórmulas avanzadas, tablas, tablas dinámicas, gráficas dinámicas, segmentación de datos, vincuilación y filtrado avanzado.
+Desarrollo de análisis integrales utilizando funciones avanzadas, tablas estructuradas, tablas dinámicas, gráficos interactivos, segmentación de datos, vinculación entre hojas y filtrado avanzado. Cada proyecto está orientado a resolver necesidades reales de operación, ventas, cobranza y rentabilidad.
 
 ## Objetivo
-Mostrar la ceratividad para la visualización de los datos y la funcionalidad de los reportes creados
+Demostrar capacidad para transformar datos en reportes funcionales y visualmente claros, aplicando creatividad en la presentación de información y precisión en el análisis.
 
 ## Habilidades demostradas
-- Fórmulas avanzadas (XLOOKUP, funciones lógicas, etc.)
-- Tablas dinámicas
-- Dashboards
-- Validación y depuración de datos
-- Gráficas
-- Segmentación
-- Tablas
+- Fórmulas avanzadas
+- Tablas dinámicas y segmentación
+- Diseño y construcción de dashboards
+- Validación, depuración y estructuración de datos
+- Elaboración de gráficas estáticas e interactivas
+- Organización mediante tablas y modelos de datos
 
 ## Metodología de trabajo
-- ETL: descarga y tras}nsformació de información de CRM y diversos archivos de varias áreas
-- Modelo: Estructuracón mediante tablas, tablas dinámicas y fómulas
-- Reporte / Dashboard: Visalización de rentabilidad por área geográfica (estado, región), gerencia, ejecutivo, centro de proceso, cliente; utilidad anual, calificación de centro proceso según su rentabilidad.
+1. **Ingesta de datos**. Extracción desde CRM y fuentes operativas; estandarización y consolidación
+2. **Preparación y depuración**. Normalización de campos, control de duplicados, validación de integridad y generación de columnas derivadas
+3. **Modelado**. Estructuración en tablas formales, definición de claves, construcción de métricas y relaciones para explotación analítica
+4. **Análisis**. Cálculo de KPIs operativos y comerciales; segmentación por región, gerencia, ejecutivo y cliente.
+5. **Visualización**. Construcción de dashboards en Excel con tablas dinámicas, segmentadores, gráficos y formatos condicionales
+6. **Validación**. Revisión de indicadores, pruebas de filtros y aseguramiento de consistencia antes de su publicación
 
-## Archivos
+
+## Enlace a descripción de archivos
 - [Rentabilidad](../Excel/rentabilidad.md)
 - [Venta general](../Excel/VentaGeneral.md)
 - [Altas y nueva venta](../Excel/NuevaVenta.md)
 - [Venta General Región-Gerencia](VentaRegionGerencia.md)
 
-## Abrir con:
-- Excel 365 o compatible
-- No requiere rutas locales
+## Compatibilidad
+- Requiere: Excel 365 o compatible
+- No necesita rutas ni conexiones locales
 
 ## [← Regresar a Proyectos](../proyects.md)
 
