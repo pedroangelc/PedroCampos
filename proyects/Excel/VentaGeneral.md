@@ -1,27 +1,25 @@
 # Venta general - Reporte
 
 ## Descripción
-Gráficas comparativas del total mensual y acumulado de ventas del año y año anterior.
+Reporte comparativo que presenta el comportamiento mensual y acumulado de las ventas totales, contrastando el desempeño del año actual frente al periodo equivalente del año anterior. Incluye visualizaciones claras por línea de negocio (“clientes”) y tablas laterales con montos, variaciones porcentuales, acumulados y señales visuales de tendencia mediante indicadores de estatus.
 
 ## Objetivo
-Dar visibilidad gráfica para facilitar la comprensión del total general de venta, separado por línea de negocio, que en este caso llamamos "clientes".  
-Las cantidades se muestran en la gráfica y en la tabla lateral, los porcentajes comparativos del mismo mes del año anerior así como la cantidad acumulada y la diferencia entre el último mes y el anetrior con íconos de estatus como referencia visual.
+Proporcionar una visión gráfica precisa y de fácil interpretación sobre el desempeño comercial general, permitiendo identificar rápidamente variaciones positivas o negativas, tendencias mensuales y cambios relevantes entre líneas de negocio. El reporte facilita el análisis ejecutivo al integrar montos, porcentajes y comparativos interanuales en un formato consolidado.
 
 ## Dataset
-- Los totales se etrajeron del CRM
-- Periodo: enero - agosto 2021, enero - agosto 2022
-- Origen: CRM propio
+- Fuente: CRM interno de la empresa
+- Periodo analizado: enero–agosto 2021 y enero–agosto 2022
+- Tipo de datos: totales de venta por línea de negocio (clientes)
 
 ## Procesos aplicados
-- Extracción Y limpieza de datos
-- Validación de información
-- Cálculos
-- Tablas
-- Validación de datos con íconos
-- Gráficas estáticas
+- Extracción y depuración de datos provenientes del CRM
+- Validación de consistencia entre periodos y líneas de negocio
+- Cálculo de variaciones mensuales, acumulados y porcentajes interanuales
+- Construcción de tablas con indicadores y reglas de formato condicional
+- Elaboración de gráficas comparativas estáticas por año y por cliente
 
 ## Resultados
-- Compáración del incremento y decremento de las ventas por línea de negocio en el periodo anual y mes anterior
+El reporte permite evaluar de manera inmediata el incremento o decremento de las ventas tanto en el acumulado anual como en la comparación mensual. Facilita detectar caídas relevantes, identificar clientes con mejor o peor desempeño y obtener una lectura clara de la evolución comercial para apoyar decisiones estratégicas.
 
 ## Screenshot
 <div style="top: 10px; right: 10px;">
