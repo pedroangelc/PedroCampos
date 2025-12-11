@@ -1,15 +1,13 @@
 # Alta de clientes y Nueva venta – Análisis y reporte
 
 ## Descripción
-Análisis del histórico de altas de nuevos clientes que han facturado, sin facturar y con >3 facturas, así como los que han facturado y pagado/no pagado.
+Análisis del histórico de altas de nuevos clientes, clasificando aquellos que han facturado, no han facturado y los que superan tres facturas. Se incluyen además indicadores de facturación pagada y adeudada por cada cliente nuevo.
 
 ## Objetivo
-Poporcionar visibilidad gráfica de los siguentes indicadores, de los cuales no se tenían visón más que en tablas de resultados:
-- Captación de nuevos clientes por parte de cada ejecutivo, gerencia y región
-
-Dar visibilidad previamente no existente, con el fin de ayudar al área de ventas y cobranza, de:
-- Clientes sin facturar, con facturación y tres o más facturas
-- Clientes nuevos con facturas pagadas y adeudadas
+Dar visibilidad gráfica y analítica sobre indicadores que anteriormente solo se consultaban en tablas, permitiendo a ventas y cobranza identificar de forma inmediata:
+- Captación de nuevos clientes por ejecutivo, gerencia y región
+- Clientes sin facturar, con facturación y con tres o más facturas
+- Clientes nuevos con facturas pagadas y con adeudos
 
 ## Dataset
 - Registros: 727
@@ -17,21 +15,20 @@ Dar visibilidad previamente no existente, con el fin de ayudar al área de venta
 - Origen: CRM propio dela empresa
 
 ## Procesos aplicados
-- Extracción de datos de CRM
-- Limpieza de datos
-- Validación de información
-- Fórmulas y funciones: SI.CONJUNTO, SI, TEXTO, BUSCARV, CONTAR.SI, SUBTOTALES, SUMA
-- Tablas dinámicas
-- Formato condicial
-- Filtrado de columnas
-- Gráficas estáticas y dinámicas
+- Extracción y depuración de datos del CRM
+- Validación de consistencia y estructura
+- Uso de funciones clave: SI.CONJUNTO, SI, TEXTO, BUSCARV, CONTAR.SI, SUBTOTALES, SUMA
+- Construcción de tablas dinámicas
+- Aplicación de formato condicional para estado de clientes
+- Filtrado avanzado de columnas
+- Elaboración de visualizaciones estáticas y dinámicas
 
 ## Resultados
-Detección de:
+El análisis permitió identificar:
 - Ejecutivos con altas de clientes que no facturan
-- Clientes con adeudos
+- Clientes nuevos con adeudos de facturación
 - Clientes nuevos sin facturar
-- Mejor / peor ejecutivo, en ventas y facturación
+- Mejor y peor desempeño por ejecutivo en captación, facturación y comportamiento de pago
 
 ## Screenshots
 <div style="top: 10px; right: 10px;">
