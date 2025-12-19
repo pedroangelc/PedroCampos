@@ -60,3 +60,5 @@ Desarrollo de un dashboard interactivo que consolida los datos históricos y per
 
 [Ver <i>online</i>](https://app.powerbi.com/links/a-sLBJjO0q?ctid=907b52e3-1016-4302-8183-b7228ca70197&pbi_source=linkShare)  
 [Descargar archivo](LlegadaDeTuristas.pbix)
+
+## [← Regresar a Proyectos/Power BI](../PowerBI/index.md)
