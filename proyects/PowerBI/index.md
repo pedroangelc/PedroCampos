@@ -27,7 +27,9 @@ Demostrar la capacidad para construir soluciones de Business Intelligence que in
 - [Proyecto 3 (pendiente)](#)
 
 ## Compatibilidad
-- Credenciales con perimiso (visualización <i>online</i>)
+- Credenciales con perimiso (visualización <i>online</i>)  
+  Usuario: **reclulutador&#8203;@soporte.ferrelacentral.com**  
+  contraseña: **Invitado01**  
 - Power BI Desktop (abrir archivo)
 
 
