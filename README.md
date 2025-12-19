@@ -1,0 +1,1 @@
+Bienvenido a mi PORTAFOLIO PROFESIONAL, en el que presento proyectos propios desarrollados con Excel, Power BI y SQL enfocados en análisis de datos, automatización de procesos y generación de insights para la toma de decisiones estratégicas.
