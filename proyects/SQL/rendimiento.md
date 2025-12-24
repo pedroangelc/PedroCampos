@@ -63,8 +63,8 @@ Consultas SQL
   <div style="top: 10px; right: 10px;">
   <a href="RelacionDificultadEsfuerzo.jpg" target="_blank">
     <img src="RelacionDificultadEsfuerzo.jpg" style="width:420px; height:auto; border-radius:8px;">
-  </a>
-   
+  </a><br>
+
 Gráficas en Excel
   <div style="top: 10px; right: 10px;">
   <a href="RelacionDificultadEsfuerzo.png" target="_blank">
@@ -77,13 +77,14 @@ Gráficas en Excel
   <div style="top: 10px; right: 10px;">
   <a href="TiempoTotalyPromedioPorMes.png" target="_blank">
     <img src="TiempoTotalyPromedioPorMes.png" style="width:420px; height:auto; border-radius:8px;">
-  </a>
-   
+  </a><br>  
+
 Dashboard Power BI  <div style="top: 10px; right: 10px;">
   <a href="Dashboard.jpg" target="_blank">
     <img src="Dashboard.jpg" style="width:420px; height:auto; border-radius:8px;">
-  </a>
+  </a><br>  
   
+
 ## Carpeta de archivos
 [Archivos](carpeta.md)
 
