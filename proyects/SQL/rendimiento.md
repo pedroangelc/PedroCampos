@@ -82,8 +82,7 @@ Gráficas en Excel
 Dashboard Power BI  <div style="top: 10px; right: 10px;">
   <a href="Dashboard.jpg" target="_blank">
     <img src="Dashboard.jpg" style="width:420px; height:auto; border-radius:8px;">
-  </a><br>  
-  
+  </a><br></html>  
 
 ## Carpeta de archivos
 [Archivos](carpeta.md)
