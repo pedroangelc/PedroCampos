@@ -45,44 +45,45 @@ Las consultas se encuentran documentadas en la carpeta /queries e incluyen:
 El análisis permitió identificar patrones de entrenamiento, rutas más frecuentes y sesiones de mayor carga, proporcionando una base objetiva para evaluar rendimiento y consistencia a lo largo del tiempo.
 
 ## Capturas de pantalla
-#Consultas SQL
-<div style="top: 10px; right: 10px;">
-  <a href="Análisis por ruta" target="_blank">
-    <img src="Análisis por ruta.jpg" style="width:420px; height:auto; border-radius:8px;">
+
+Consultas SQL
+  <div style="top: 10px; right: 10px;">
+  <a href="AnalisisPorRuta.jpg" target="_blank">
+    <img src="AnalisisPorRuta.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
   <div style="top: 10px; right: 10px;">
-  <a href="Métricas resumen" target="_blank">
-    <img src="Métricas resumen.jpg" style="width:420px; height:auto; border-radius:8px;">
-  </a>
-  
-  <div style="top: 10px; right: 10px;">
-  <a href="Ranking de sesiones" target="_blank">
-    <img src="Ranking de sesiones.jpg" style="width:420px; height:auto; border-radius:8px;">
-  </a>
-  
-  <div style="top: 10px; right: 10px;">
-  <a href="Relación dificultad-esfuerzo" target="_blank">
-    <img src="Relación dificultad-esfuerzo.jpg" style="width:420px; height:auto; border-radius:8px;">
-  </a>
-  # Gráficas en Excel
-  <div style="top: 10px; right: 10px;">
-  <a href="Relación dificultad-esfuerzo" target="_blank">
-    <img src="Relación dificultad-esfuerzo.jpg" style="width:420px; height:auto; border-radius:8px;">
+  <a href="MetricasResumen.jpg" target="_blank">
+    <img src="MetricasResumen.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
   <div style="top: 10px; right: 10px;">
-  <a href="Volumen mensual" target="_blank">
-    <img src="Volumen mensual.png" style="width:420px; height:auto; border-radius:8px;">
+  <a href="RankingDeSesiones.jpg" target="_blank">
+    <img src="RankingDeSesiones.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
   <div style="top: 10px; right: 10px;">
-  <a href="Tiempo total y promedio por mes" target="_blank">
-    <img src="Tiempo total y promedio por mes.png" style="width:420px; height:auto; border-radius:8px;">
+  <a href="RelacionDificultadEsfuerzo.jpg" target="_blank">
+    <img src="RelacionDificultadEsfuerzo.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
-# Dashboard Power BI  <div style="top: 10px; right: 10px;">
-  <a href="Dashboard" target="_blank">
+   
+Gráficas en Excel
+  <div style="top: 10px; right: 10px;">
+  <a href="RelacionDificultadEsfuerzo.png" target="_blank">
+    <img src="RelacionDificultadEsfuerzo.png" style="width:420px; height:auto; border-radius:8px;">
+  </a>
+  <div style="top: 10px; right: 10px;">
+  <a href="VolumenMensual.png" target="_blank">
+    <img src="VolumenMensual.png" style="width:420px; height:auto; border-radius:8px;">
+  </a>
+  <div style="top: 10px; right: 10px;">
+  <a href="TiempoTotalyPromedioPorMes.png" target="_blank">
+    <img src="TiempoTotalyPromedioPorMes.png" style="width:420px; height:auto; border-radius:8px;">
+  </a>
+   
+Dashboard Power BI  <div style="top: 10px; right: 10px;">
+  <a href="Dashboard.jpg" target="_blank">
     <img src="Dashboard.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
-## Archivos
-rendimiento.bdd  
-rendimineto.sql
+  
+## Carpeta de archivos
+[Carpeta](carpeta.md)
 
-## Regresar a .../proyectos/SQL
+## [← Regresar a Proyectos/SQL](../SQL/index.md)
