@@ -1,0 +1,416 @@
+﻿ID_SESION,Fecha,Mes,Ruta,Tiempo,Minutos,Segundos,Kms,Altitud_m,Esfuerzo,Dificultad
+,01 03 25,Enero,2025-01-03Ride,00:28:36,28,1716,6.96,4.4,13.32,Bajo
+,01 03 25,Enero,Fuentes Brotantes - Pedrink Cycling Club,02:26:37,146,8797,47.82,300.8,97.69,Medio
+,01 04 25,Enero,Afternoon Ride,00:53:00,53,3158,10.48,301,54.37,Medio
+,01 04 25,Enero,Evening Ride,00:09:00,9,511,1.56,4,4.51,Bajo
+,01 07 25,Enero,Afternoon Ride,00:13:00,13,773,3.7,0,6,Bajo
+,01 08 25,Enero,Rosca de Reyes - Chayito Baikers,00:42:00,42,2532,10.12,15,20.8,Bajo
+,01 09 25,Enero,Rosca de Reyes - Team Taquitos,00:57:00,57,3435,19.44,19,28.33,Bajo
+,01 10 25,Enero,Castillo de Longford - Pedrink Cycling Club,02:37:00,157,9429,52.52,5,73.25,Medio
+,01 11 25,Enero,Barrio Chino - Freebikes,01:33:00,93,5583,23.42,45,47.29,Bajo
+,01 12 25,Enero,Evening Ride,00:28:00,28,1661,5.69,495,62.33,Medio
+,01 14 25,Enero,2025-01-14Ride,01:21:00,81,4850,19.6,33,40.53,Bajo
+,01 14 25,Enero,Evening Ride,00:17:00,17,1008,2.94,15,9.27,Bajo
+,01 15 25,Enero,2025-01-15Ride,01:27:00,87,5247,29.13,2,40.52,Bajo
+,01 15 25,Enero,Parque Oaxaca (taller de lavado) - Chayito Baikers,01:38:00,98,5894,27.5,102,55.4,Medio
+,01 17 25,Enero,Zoológico de Aragón - MICiclistas,02:36:00,156,9381,32.01,58,77.28,Medio
+,01 18 25,Enero,Monumento a la enfermera - Freebikes,01:31:00,91,5481,25.81,43,46.28,Bajo
+,01 19 25,Enero,Afternoon Ride,00:21:00,21,1243,3.55,62,15.79,Bajo
+,01 19 25,Enero,Paseo Dominical completo (por cada ruta alterna que hay).,03:14:00,194,11631,65.65,30,92.93,Medio
+,01 22 25,Enero,2025-01-21Ride,00:32:00,32,1908,11.35,114,26.25,Bajo
+,01 23 25,Enero,Rodada NFL - Team Taquitos,01:35:00,95,5673,31.7,7,44.72,Bajo
+,01 24 25,Enero,Alberca Olímpica - MICiclistas,04:51:00,291,17456,43.99,23,135.01,Alto
+,01 25 25,Enero,2025-01-25Ride,00:44:00,44,2668,13.78,102,30.55,Bajo
+,01 25 25,Enero,2025-01-25Ride,00:22:00,22,1330,6.75,109,21.07,Bajo
+,01 26 25,Enero,Afternoon Ride,00:15:00,15,874,2.74,9,7.76,Bajo
+,01 28 25,Enero,Afternoon Ride,00:27:00,27,1637,5.11,30,15.35,Bajo
+,01 28 25,Enero,Ciudad Deportiva - Pedrink Cycling Club,01:25:00,85,5070,29.97,18,41.25,Bajo
+,01 29 25,Enero,2025-01-29Ride,01:04:00,64,3842,19.84,51,34.69,Bajo
+,01 30 25,Enero,2025-01-30Ride,01:09:00,69,4127,22,6,32.53,Bajo
+,01 30 25,Enero,Cablebús - Team Taquitos,02:00:00,120,7190,32.31,41,59.39,Medio
+,01 30 25,Enero,Evening Ride,00:22:00,22,1343,4.77,7,10.79,Bajo
+,01 31 25,Enero,2025-01-31Ride,00:11:00,11,663,4.01,294,34.51,Bajo
+,01 31 25,Enero,2025-01-30Ride,00:07:00,7,407,2.05,29,6.13,Bajo
+,01 31 25,Enero,Intergrupal de aniversario 3 MICiclistas,01:01:00,61,3665,18.5,56,33.79,Bajo
+,02 01 25,Febrero,"Restaurante Empireo, Edo Mex - Pedrink Cycling Club",05:24:00,324,19423,93.68,2,149.75,Alto
+,02 05 25,Febrero,Afternoon Ride,00:16:00,16,969,3.98,3,7.66,Bajo
+,02 06 25,Febrero,Tepepan - Team Taquitos,02:25:00,145,8674,54.14,"1,485",215.92,Alto
+,02 07 25,Febrero,Museo Anahuacalli - MICiclistas,02:18:00,138,8277,42.71,8,64.61,Medio
+,02 08 25,Febrero,Night Ride,02:32:00,152,9116,60.05,113,82.1,Medio
+,02 08 25,Febrero,Museo Dolores Olmedo - Freebikes,02:44:00,164,9823,60.9,77,83.94,Medio
+,02 12 25,Febrero,Rodada del amor de Chayito Baikers - Pedrink Cycling Club,01:46:00,106,6334,31.11,166,65.54,Medio
+,02 12 25,Febrero,Morning Ride,00:08:00,8,485,1.67,141,17.77,Bajo
+,02 13 25,Febrero,2025-02-13Ride,00:25:00,25,1497,6.2,65,18,Bajo
+,02 13 25,Febrero,Rodada del Amortz - Team Taquitos,02:02:00,122,7338,40.4,5,57.02,Medio
+,02 14 25,Febrero,Callejón del Beso - MICiclistas,01:17:00,77,4646,23.21,75,43.08,Bajo
+,02 15 25,Febrero,Afternoon Ride,00:12:00,12,728,2.03,7,6.18,Bajo
+,02 15 25,Febrero,Zócalo. Rodada de la amistad - Freebikes,01:51:00,111,6689,25.49,107,61.67,Medio
+,02 16 25,Febrero,Parque Ecológico de Texcoco con KaxaBike - Pedrink Cycling Club,04:49:00,289,17334,107.76,53,139.66,Alto
+,02 17 25,Febrero,Night Ride,00:08:00,8,501,2.97,2,3.92,Bajo
+,02 17 25,Febrero,Evening Ride,00:18:00,18,1075,4.15,287,36.97,Bajo
+,02 19 25,Febrero,Evening Ride,00:33:00,33,1986,8.29,4,15.58,Bajo
+,02 20 25,Febrero,Afternoon Ride,00:09:00,9,541,2.65,4,4.56,Bajo
+,02 20 25,Febrero,Nezahualcóyotl y Chimalhuacán - Team Taquitos,03:02:00,182,10942,62.38,31,87.5,Medio
+,02 20 25,Febrero,Evening Ride,00:25:00,25,1504,8.33,9,12.48,Bajo
+,02 21 25,Febrero,Caracol Oriente - MICiclistas,01:17:00,77,4649,22.1,84,43.93,Bajo
+,02 21 25,Febrero,Evening Ride,00:12:00,12,733,1.83,3,5.77,Bajo
+,02 22 25,Febrero,#NoMásMuertesViales,00:41:00,41,2432,5,4,19.05,Bajo
+,02 23 25,Febrero,Ciclotón de febrero - Team Taquitos,02:19:00,139,8359,50.8,171,81.68,Medio
+,02 25 25,Febrero,Afternoon Ride,00:27:00,27,1626,4.79,0,12.34,Bajo
+,02 26 25,Febrero,Bandera monumental de San Gerónimo - Chayito Baikers,02:05:00,125,7523,42.54,294,87.35,Medio
+,02 27 25,Febrero,Lunch Ride,00:14:00,14,847,2.93,8,7.22,Bajo
+,02 28 25,Febrero,Cementerio de aviones - Pedrink Cycling Club,01:32:00,92,5510,32.96,149,57.62,Medio
+,03 01 25,Marzo,Pre-foro Azcapotzalco en bici,00:22:00,22,1338,6.21,3,10.45,Bajo
+,03 02 25,Marzo,Mitad del Paseo Dominical (parte 2) y CU,02:34:00,154,9215,35.24,60,76.71,Medio
+,03 02 25,Marzo,Mitad de Paseo Dominical (parte 1),01:03:00,63,3791,19.97,8,29.95,Bajo
+,03 03 25,Marzo,Evening Ride,00:38:00,38,2304,8.22,59,23.33,Bajo
+,03 04 25,Marzo,4o aniversario de Roma Bikers Cycling,01:29:00,89,5314,28.77,187,59.9,Medio
+,03 05 25,Marzo,2025-03-04Ride,01:48:00,108,6499,25.47,11,50.72,Medio
+,03 05 25,Marzo,Rodada 8M - Chayito Baikers,03:35:00,215,12880,36.79,120,110.22,Alto
+,03 07 25,Marzo,Rodada 8M ♀️- MICiclistas,01:28:00,88,5268,26.08,199,60.54,Medio
+,03 08 25,Marzo,Fierro de Toro/Tres Marías - Husky Bikers/Team Taquitos,07:27:00,447,26807,129.62,52,211.53,Alto
+,03 08 25,Marzo,Rodada 8M - Freebikes,01:15:00,75,4510,19.05,82,42.71,Bajo
+,03 09 25,Marzo,Afternoon Ride,00:22:00,22,1324,3.76,41,14.15,Bajo
+,03 11 25,Marzo,Afternoon Ride,00:31:00,31,1830,7.73,"1,163",130.56,Alto
+,03 12 25,Marzo,Museo del Transporte Eléctrico - Chayito Baikers,01:50:00,110,6573,33.07,53,56.12,Medio
+,03 12 25,Marzo,2025-03-11Ride,00:04:00,4,236,0.31,11,2.91,Bajo
+,03 12 25,Marzo,2025-03-11Ride,00:02:00,2,120,0,0,0.9,Bajo
+,03 13 25,Marzo,"Cerro de Moctezuma, Aniversario de Huskys Bikers - Team Taquitos",02:04:00,124,7425,38.05,0,57.32,Medio
+,03 14 25,Marzo,Lunch Ride,00:10:00,10,577,2.62,37,8.3,Bajo
+,03 14 25,Marzo,Morning Ride,00:14:00,14,822,1.96,204,26.78,Bajo
+,03 14 25,Marzo,Bandera San Gerónimo - MICiclistas,01:57:00,117,7041,38.03,221,76.27,Medio
+,03 15 25,Marzo,Acropolis - Pedrink Cycling Club,01:41:00,101,6038,30.73,3,46.98,Bajo
+,03 18 25,Marzo,Parque Huei Tochiuitl - Roma Bikers Cycling,01:22:00,82,4910,32.11,6,38.78,Bajo
+,03 18 25,Marzo,Evening Ride,00:19:00,19,1162,7.68,224,31.26,Bajo
+,03 19 25,Marzo,Línea 7 del Metro - Chayito Baikers,02:09:00,129,7763,42.64,13,61.06,Medio
+,03 20 25,Marzo,Afternoon Ride,00:09:00,9,552,2.55,68,10.95,Bajo
+,03 20 25,Marzo,Parque Triángulos - Team Taquitos,03:41:00,221,13282,70.71,113,113.58,Alto
+,03 21 25,Marzo,Museo de Pedro Infante - MICiclistas,04:13:00,253,15166,45.05,293,144.95,Alto
+,03 22 25,Marzo,Lunch Ride,00:51:00,51,3061,13.35,0,23.48,Bajo
+,03 23 25,Marzo,"La Purificación, Texcoco - Freebikes",02:30:00,150,8971,63.04,608,130.82,Alto
+,03 26 25,Marzo,Evening Ride,00:32:00,32,1933,10.16,0,14.81,Bajo
+,03 28 25,Marzo,Mansión de Ignacio Holtz - MICiclistas,01:34:00,94,5620,27.02,134,56.78,Medio
+,03 28 25,Marzo,Evening Ride,00:06:00,6,365,1.32,55,8.25,Bajo
+,03 29 25,Marzo,2025-03-29Ride,00:13:00,13,802,4.14,0,6.02,Bajo
+,03 29 25,Marzo,La Mexicana - Freebikes,03:24:00,204,12226,51.16,301,123.95,Alto
+,03 30 25,Marzo,Flextival,03:29:00,209,12561,42.75,509,146.66,Alto
+,03 30 25,Marzo,2025-03-30Ride,00:01:00,1,53,0.2,4,0.86,Bajo
+,03 30 25,Marzo,Paseo Nocturno,02:28:00,148,8859,22.92,115,79.02,Medio
+,04 02 25,Abril,Afternoon Ride,00:05:00,5,316,1.23,0,2.3,Bajo
+,04 02 25,Abril,Lunch Ride,00:10:00,10,579,2.22,228,27.39,Bajo
+,04 02 25,Abril,Morning Ride,00:14:00,14,865,3.35,23,8.73,Bajo
+,04 03 25,Abril,Parque Barranca del Muerto - Team Taquitos,03:56:00,236,14176,62.26,3,108.99,Alto
+,04 04 25,Abril,Afternoon Ride,00:07:00,7,415,1.44,2,3.41,Bajo
+,04 04 25,Abril,Afternoon Ride,00:07:00,7,433,1.89,226,25.83,Bajo
+,04 04 25,Abril,Pirámide de Pemex - MICiclistas,02:40:00,160,9570,47.06,9,74.78,Medio
+,04 04 25,Abril,Evening Ride,00:11:00,11,673,2.53,389,43.95,Bajo
+,04 05 25,Abril,David de Miguel Angel - Freebikes,03:07:00,187,11231,56.45,0,86.41,Medio
+,04 09 25,Abril,Barco Utopía - Pedrink Cycling Club,02:13:00,133,7985,45.07,2,61.85,Medio
+,04 10 25,Abril,Museo del Transporte Eléctrico - Team Taquitos,02:34:00,154,9265,37.68,140,84.81,Medio
+,04 11 25,Abril,Glorieta del Obelisco - MICiclistas,03:27:00,207,12402,62.47,87,104.35,Alto
+,04 13 25,Abril,2025-04-13Ride,01:45:00,105,6320,35.81,90,57.68,Medio
+,04 15 25,Abril,Tulyehualco - Fenix Bikers,03:57:00,237,14245,79.49,479,157.73,Alto
+,04 16 25,Abril,Granja Las Américas - Aztecas,01:37:00,97,5835,32.2,74,52.34,Medio
+,04 17 25,Abril,Ruta de aviones Utopía - Team Taquitos,02:38:00,158,9494,56.04,226,95.94,Medio
+,04 18 25,Abril,Centro de Tlalpan - PCC (cancelada),03:02:00,182,10916,52.35,170,100.99,Alto
+,04 19 25,Abril,Mirador de San Pablo Ixayoc - PCC,05:25:00,325,19504,101.73,104,160.72,Alto
+,04 24 25,Abril,Afternoon Ride,00:49:00,49,2912,12.76,131,35.66,Bajo
+,04 24 25,Abril,Timoteos - Team Taquitos,04:03:00,243,14572,75.61,601,172.47,Alto
+,04 25 25,Abril,Evening Ride,00:46:00,46,2761,7.47,306,51.6,Medio
+,04 26 25,Abril,Cerro de la Estrella - Pedrink Cycling Club,02:45:00,165,9890,49.58,32,79.43,Medio
+,04 26 25,Abril,Rally día del niño - Freebikes,02:49:00,169,10159,27.22,9,78.04,Medio
+,04 30 25,Abril,Rodada masiva - Chayito Baikers,03:33:00,213,12787,43.13,57,103.28,Alto
+,05 01 25,Mayo,Morning Ride,01:50:00,110,6610,18.15,355,85.73,Medio
+,05 01 25,Mayo,Día del niño - Team Taquitos,05:02:00,302,18127,78.28,276,166.63,Alto
+,05 02 25,Mayo,Monumento a El Caminero - MICiclistas,04:04:00,244,14617,63.81,631,175.45,Alto
+,05 07 25,Mayo,Aniversario de Chayito Baikers,03:40:00,220,13183,38.98,39,104.46,Alto
+,05 08 25,Mayo,Afternoon Ride,01:00:00,60,3597,10.03,173,44.7,Bajo
+,05 08 25,Mayo,Morning Ride,00:37:00,37,2192,12.85,77,24.86,Bajo
+,05 08 25,Mayo,Lunch Ride,00:05:00,5,326,1.45,382,40.51,Bajo
+,05 08 25,Mayo,Parque CRI CRI - Pedrink Cycling Club,01:49:00,109,6540,34.74,27,53.14,Medio
+,05 09 25,Mayo,GTBC México - MICiclistas,02:23:00,143,8573,41.48,0,66.01,Medio
+,05 09 25,Mayo,Evening Ride,00:36:00,36,2134,10.79,34,20.03,Bajo
+,05 10 25,Mayo,Monumento a la Madre - Freebikes,03:08:00,188,11278,32.54,19,87.8,Medio
+,05 13 25,Mayo,Lunch Ride,01:27:00,87,5205,20.65,467,86.68,Medio
+,05 13 25,Mayo,Trazo de la ruta randonautica,01:48:00,108,6450,20.15,73,56.71,Medio
+,05 14 25,Mayo,El Vigilante - Aztecas,01:45:00,105,6280,35.18,71,55.76,Medio
+,05 14 25,Mayo,Evening Ride,00:11:00,11,643,2.27,23,7.34,Bajo
+,05 15 25,Mayo,Lunch Ride,01:59:00,119,7150,22.4,2,54.65,Medio
+,05 15 25,Mayo,Evening Ride - PCC,01:59:00,119,7119,19.61,212,75.53,Medio
+,05 16 25,Mayo,2025-05-15Ride,01:05:00,65,3886,22.4,34,33.55,Bajo
+,05 16 25,Mayo,Los Bastones - MICiclistas,02:42:00,162,9745,31.27,29,77.05,Medio
+,05 17 25,Mayo,Evening Ride,04:51:00,291,17459,64.31,147,148.22,Alto
+,05 18 25,Mayo,Lago Algo - PCC,04:59:00,299,17951,39.99,141,150.25,Alto
+,05 20 25,Mayo,Lunch Ride,01:13:00,73,4357,18.45,106,44.19,Bajo
+,05 21 25,Mayo,Aphesis Roma,00:53:00,53,3186,15,126,37.05,Bajo
+,05 21 25,Mayo,Pabellón Minion / CRI CRI - PCC,02:53:00,173,10373,49.45,34,83.23,Medio
+,05 22 25,Mayo,Lunch Ride,00:58:00,58,3481,17.78,257,52.51,Medio
+,05 23 25,Mayo,El Gato de Interlomas - MICiclistas,01:44:00,104,6244,32.25,20,50.09,Medio
+,05 24 25,Mayo,Casa de cultura de Tlalpan - Freebikes,02:31:00,151,9066,52.69,28,72.86,Medio
+,05 25 25,Mayo,Ciclotón de mayo - PCC,04:36:00,276,16584,64.89,353,162.1,Alto
+,05 26 25,Mayo,Evening Ride,00:16:00,16,982,2.61,238,31.1,Bajo
+,05 27 25,Mayo,Lunch Ride,00:50:00,50,3027,17.87,327,55.91,Medio
+,05 28 25,Mayo,Interview with the vampire,01:24:00,84,5048,14.48,10,39.38,Bajo
+,05 28 25,Mayo,Zona arqueológica Santa Cecilia - PCC,01:32:00,92,5517,27.74,29,45.41,Bajo
+,05 29 25,Mayo,Lunch Ride,00:57:00,57,3410,18.22,34,29.78,Bajo
+,05 29 25,Mayo,Evening Ride,00:33:00,33,1994,7.58,20,17.15,Bajo
+,05 31 25,Mayo,Masa Crítica - Pedrink Cycling Club,02:21:00,141,8440,46.23,29,68.2,Medio
+,06 01 25,Junio,Tepozotlán - Freebikes,03:37:00,217,13049,79.3,70,107.82,Alto
+,06 03 25,Junio,Lunch Ride,00:57:00,57,3397,17.6,349,61.25,Medio
+,06 04 25,Junio,Lunch Ride,00:30:00,30,1819,7.5,27,16.5,Bajo
+,06 04 25,Junio,Día mundial de la bicicleta - PCC,02:09:00,129,7757,36.95,9,60.43,Medio
+,06 04 25,Junio,Evening Ride,00:28:00,28,1677,7.13,220,34.89,Bajo
+,06 05 25,Junio,Lunch Ride,00:58:00,58,3501,17.87,14,28.21,Bajo
+,06 06 25,Junio,Afternoon Ride,01:08:00,68,4064,18.73,45,35.85,Bajo
+,06 06 25,Junio,Precumpleañera de Fer,01:42:00,102,6115,27.78,332,80.21,Medio
+,06 06 25,Junio,Monumento a Pedro Infante - MICiclistas,02:11:00,131,7859,43.91,215,82.21,Medio
+,06 08 25,Junio,Paseo Dominical - PCC,05:36:00,336,20156,67.08,57,159.58,Alto
+,06 09 25,Junio,Morning Ride,01:01:00,61,3668,11.41,146,42.51,Bajo
+,06 09 25,Junio,Night Ride,00:12:00,12,699,1.83,3,5.77,Bajo
+,06 10 25,Junio,Lunch Ride,01:03:00,63,3784,17.89,10,30.07,Bajo
+,06 11 25,Junio,Alameda Sur - PCC,02:50:00,170,10225,64.05,25,81.56,Medio
+,06 12 25,Junio,Lunch Ride,00:54:00,54,3237,16.95,138,38.78,Bajo
+,06 17 25,Junio,Lunch Ride,00:52:00,52,3107,17.15,28,26.89,Bajo
+,06 17 25,Junio,2025-06-16Ride,00:51:00,51,3040,15.15,166,40.16,Bajo
+,06 17 25,Junio,Kiosco de Coyoacán - PCC,02:18:00,138,8262,44.67,38,67.69,Medio
+,06 18 25,Junio,Evening Ride,00:43:00,43,2550,8.35,27,22.38,Bajo
+,06 19 25,Junio,2025-06-19Ride,00:28:00,28,1688,8.39,20,14.94,Bajo
+,06 20 25,Junio,Lunch Ride,00:18:00,18,1074,5.35,28,11.11,Bajo
+,06 20 25,Junio,Centro de Tlalpan - PCC,02:17:00,137,8234,50.8,181,81.78,Medio
+,06 21 25,Junio,Pride - Freebikes,01:09:00,69,4168,21.7,11,33.02,Bajo
+,06 24 25,Junio,Lomas de Chapultepec,01:12:00,72,4312,20.35,70,40.21,Bajo
+,06 24 25,Junio,Evening Ride,00:15:00,15,927,5.5,16,8.57,Bajo
+,06 26 25,Junio,Afternoon Ride,00:53:00,53,3157,17.3,130,37.54,Bajo
+,06 27 25,Junio,Afternoon Ride,01:09:00,69,4129,10.01,22,33.65,Bajo
+,06 28 25,Junio,Cycling,00:10:00,10,608,3.15,79,12.53,Bajo
+,06 29 25,Junio,Ciclotón de junio,03:11:00,191,11464,65.74,3,88.88,Medio
+,06 30 25,Junio,Cycling,00:39:00,39,2368,11.75,320,50.02,Medio
+,07 01 25,Julio,Afternoon Activity,00:49:00,49,2952,16.64,59,28.62,Bajo
+,07 01 25,Julio,Chapultepec III - The Service Course,01:57:00,117,7039,33.92,398,93.81,Medio
+,07 02 25,Julio,Línea 2 del Metro - Chayito Baikers,04:12:00,252,15145,60.1,17,117.5,Alto
+,07 03 25,Julio,Afternoon Ride,00:12:00,12,708,3.61,148,20.34,Bajo
+,07 03 25,Julio,Afternoon Activity,00:58:00,58,3485,18.76,50,31.85,Bajo
+,07 03 25,Julio,Palacio de los Deportes - PCC,01:39:00,99,5952,34.15,101,56.02,Medio
+,07 04 25,Julio,La Mexicana - PCC,02:20:00,140,8399,41.14,7,65.35,Medio
+,07 05 25,Julio,Parque Lázaro Cárdenas,00:54:00,54,3268,17.39,446,69.6,Medio
+,07 05 25,Julio,Corporativo Bimbo - Freebikes,02:08:00,128,7701,37.78,410,100.11,Alto
+,07 06 25,Julio,Bosque de Aragón,00:59:00,59,3569,24.28,43,31.82,Bajo
+,07 08 25,Julio,Fisio ida,00:23:00,23,1404,8.24,32,13.88,Bajo
+,07 08 25,Julio,Fisio. Regreso,00:25:00,25,1496,8.32,382,49.78,Bajo
+,07 08 25,Julio,Chapultepec III y II - The Service Course,01:56:00,116,6940,33.46,12,54.74,Medio
+,07 09 25,Julio,Afternoon Ride,00:14:00,14,840,2.1,6,6.98,Bajo
+,07 09 25,Julio,Mundo E - Michikletos + PCC,02:32:00,152,9107,38.54,170,86.94,Medio
+,07 10 25,Julio,De regreso,00:25:00,25,1515,8.34,0,11.58,Bajo
+,07 10 25,Julio,Fisio y psico,00:24:00,24,1468,8.69,0,11.15,Bajo
+,07 10 25,Julio,Afternoon ride,00:20:00,20,1200,2.1,15,10.58,Bajo
+,07 13 25,Julio,"San Cristóbal Zacacalco, Tlax - PCC",05:55:00,355,21291,125.72,6,165.38,Alto
+,07 15 25,Julio,Lunch Ride,00:25:00,25,1500,4.8,929,104.34,Alto
+,07 15 25,Julio,Cycling,00:28:00,28,1694,4.74,302,42.99,Bajo
+,07 15 25,Julio,Chapultepec III y II - TSC,02:00:00,120,7174,33.5,0,55.34,Medio
+,07 17 25,Julio,Cycling,00:24:00,24,1441,7.91,11,12.22,Bajo
+,07 17 25,Julio,Cycling,00:19:00,19,1129,5.7,7,9.48,Bajo
+,07 17 25,Julio,Cycling,00:12:00,12,743,4.01,44,9.96,Bajo
+,07 18 25,Julio,T2 - Rene Bikers + PCC,02:04:00,124,7460,44.66,3,57.89,Medio
+,07 19 25,Julio,Alberca Olímpica - Freebikes,01:57:00,117,7041,37.79,138,67.96,Medio
+,07 21 25,Julio,Cycling,00:15:00,15,911,5.08,68,13.75,Bajo
+,07 22 25,Julio,Afternoon Ride,00:28:00,28,1669,5.14,10,13.81,Bajo
+,07 22 25,Julio,Cycling,00:25:00,25,1486,8.51,373,48.89,Bajo
+,07 22 25,Julio,Cycling,00:16:00,16,968,5.81,12,8.63,Bajo
+,07 22 25,Julio,TSC - Chapultepec III y II,01:56:00,116,6976,35.28,14,55.01,Medio
+,07 23 25,Julio,Torres de Satélite - PCC + Cletos Nocturnos,01:55:00,115,6909,43.65,24,55.9,Medio
+,07 24 25,Julio,Basílica de N. S. de Los Remedios - PCC,01:47:00,107,6395,29.87,113,60.64,Medio
+,07 26 25,Julio,L'etape Tlalpan - Freebikes,01:53:00,113,6755,47.71,171,69.86,Medio
+,07 27 25,Julio,Salazar (Alas) - MICiclistas+ PCC,04:23:00,263,15761,69.56,60,127.13,Alto
+,07 29 25,Julio,Cycling,00:23:00,23,1399,7.71,"1,151",125.76,Alto
+,07 29 25,Julio,Chapultepec III y II - TSC,02:10:00,130,7788,33.43,402,100.04,Alto
+,07 30 25,Julio,Línea B del Metro - Chayito Baikers + PCC,02:39:00,159,9532,51.99,12,74.83,Medio
+,07 31 25,Julio,Zona arqueológica/Mirador de Sta. Cecilia Acatitlán - PCC,01:41:00,101,6050,31.1,98,56.49,Medio
+,08 02 25,Agosto,Pirámide de Tenayuca - Freebikes,02:19:00,139,8336,31.32,186,82.4,Medio
+,08 03 25,Agosto,Paseo Dominical de Coyoacán - PCC,02:36:00,156,9330,52.49,103,82.6,Medio
+,08 05 25,Agosto,Workout,00:26:00,26,1531,8.28,334,45.43,Bajo
+,08 05 25,Agosto,Cycling,00:24:00,24,1435,8.01,22,13.32,Bajo
+,08 05 25,Agosto,Chapultepec III y II - TSC,02:07:00,127,7592,36.48,7,59.31,Medio
+,08 06 25,Agosto,Cine (regreso),00:18:00,18,1071,5.6,4,8.72,Bajo
+,08 06 25,Agosto,Cinito (ida),00:16:00,16,948,5.27,13,8.71,Bajo
+,08 07 25,Agosto,Parque del mestizaje - PCC + Azcapobike,01:43:00,103,6168,33.42,77,55.39,Medio
+,08 08 25,Agosto,Chambeanding en el Edo Mex 1,01:33:00,93,5604,28.9,160,59.01,Medio
+,08 09 25,Agosto,Plaza San Jacinto - Freebikes,01:54:00,114,6834,33.26,120,64.63,Medio
+,08 10 25,Agosto,Paseo Dominical agosto 10,02:55:00,175,10517,60.5,106,91.77,Medio
+,08 11 25,Agosto,Chambeanding en el Edo Mex 2,01:21:00,81,4841,26.67,73,44.82,Bajo
+,08 12 25,Agosto,Cycling,00:25:00,25,1514,8.35,31,14.68,Bajo
+,08 12 25,Agosto,Cycling,00:23:00,23,1387,7.84,9,11.56,Bajo
+,08 13 25,Agosto,Chambeanding en el Edo Mex 3,01:04:00,64,3866,23.44,95,39.24,Bajo
+,08 14 25,Agosto,Afternoon Ride,00:04:00,4,254,1.05,4,2.24,Bajo
+,08 14 25,Agosto,2025-08-14Ride,00:09:00,9,526,2.22,50,9.14,Bajo
+,08 14 25,Agosto,Afternoon training,01:13:00,73,4405,29.54,0,34.03,Bajo
+,08 14 25,Agosto,2025-08-14Ride,00:08:00,8,477,2.09,13,4.98,Bajo
+,08 17 25,Agosto,Tres Marías - PCC,07:31:00,451,27034,130.63,"1,232",331.38,Alto
+,08 19 25,Agosto,Tlalnepantla 1,01:10:00,70,4171,24.96,410,73.5,Medio
+,08 19 25,Agosto,Chapultepec III y II - TSC,02:03:00,123,7393,34.81,61,62.84,Medio
+,08 20 25,Agosto,Tlalnepantla 2,01:11:00,71,4285,23.97,188,51.71,Medio
+,08 20 25,Agosto,Linea 3 del Metro - Chayito Baikers,02:47:00,167,10021,61.57,36,81.21,Medio
+,08 22 25,Agosto,Parque México - PCC,00:55:00,55,3277,16.39,68,32.21,Bajo
+,08 24 25,Agosto,Afternoon Ride,00:18:00,18,1080,6.4,105,18.86,Bajo
+,08 24 25,Agosto,Paseo Dominical agosto 24,02:46:00,166,9978,62.08,0,77.18,Medio
+,08 26 25,Agosto,Cycling,00:49:00,49,2925,16.09,19,24.59,Bajo
+,08 28 25,Agosto,Fuente de los Coyotes - PCC,01:37:00,97,5830,34.25,103,55.32,Medio
+,08 30 25,Agosto,Alcaldía V. Carranza - Freebikes,01:53:00,113,6759,39.72,77,60.14,Medio
+,08 31 25,Agosto,Marathon Crash - PCC,03:10:00,190,11415,68.86,170,105.25,Alto
+,09 01 25,Septiembre,Profesionales en Inventarios,00:22:00,22,1313,7.6,13,11.5,Bajo
+,09 02 25,Septiembre,Cycling,00:19:00,19,1136,5.37,121,20.86,Bajo
+,09 02 25,Septiembre,Eddington,00:40:00,40,2387,11.2,0,18.45,Bajo
+,09 02 25,Septiembre,Tlalpan centro - Bucaneros + PCC,02:41:00,161,9655,55.77,6,75.28,Medio
+,09 04 25,Septiembre,Cycling,00:26:00,26,1564,8.41,12,13.24,Bajo
+,09 04 25,Septiembre,DIF,00:26:00,26,1541,8.3,3,12.33,Bajo
+,09 05 25,Septiembre,The Conjuring :Last Rites,00:05:00,5,319,1.32,263,28.6,Bajo
+,09 05 25,Septiembre,Balcones - PCC,01:34:00,94,5643,32.2,0,43.59,Bajo
+,09 09 25,Septiembre,Cycling,00:27:00,27,1600,8.41,453,57.79,Medio
+,09 09 25,Septiembre,Cycling,00:23:00,23,1407,8.31,14,12.08,Bajo
+,09 09 25,Septiembre,Chapultepec III y II - TSC,02:05:00,125,7513,40.34,5,58.36,Medio
+,09 11 25,Septiembre,Zócalo/Bellas Artes - PCC,01:07:00,67,4017,17.85,28,33.66,Bajo
+,09 12 25,Septiembre,Cycling,00:09:00,9,554,2.56,0,4.15,Bajo
+,09 12 25,Septiembre,A ver el TNF,00:11:00,11,633,2.81,4,5.46,Bajo
+,09 13 25,Septiembre,Afternoon Ride,00:06:00,6,330,1.68,5,3.27,Bajo
+,09 15 25,Septiembre,Night Ride,00:06:00,6,388,2.36,0,2.79,Bajo
+,09 15 25,Septiembre,SNF,00:05:00,5,300,1.27,6,2.9,Bajo
+,09 18 25,Septiembre,En chinga de regreso,00:13:00,13,782,5.24,78,13.86,Bajo
+,09 18 25,Septiembre,Call Center,00:15:00,15,925,4.58,7,7.63,Bajo
+,09 18 25,Septiembre,Fisioterapia,00:16:00,16,937,5.68,11,8.53,Bajo
+,09 18 25,Septiembre,Coyoacán - PCC,01:33:00,93,5585,31.27,21,45.2,Bajo
+,09 23 25,Septiembre,Cycling,00:24:00,24,1440,7.94,80,19.12,Bajo
+,09 23 25,Septiembre,Camino con fisioterapeuta,00:26:00,26,1562,8.33,360,48.03,Bajo
+,09 23 25,Septiembre,Chapultepec III y II - TSC,01:53:00,113,6792,38.52,16,53.99,Medio
+,09 23 25,Septiembre,Día Mundial Sin Auto - Caravana Ciclista/PCC,01:31:00,91,5432,30.01,8,42.95,Bajo
+,09 24 25,Septiembre,Monumento al Perro Callejero - Aztecas/ PCC,02:43:00,163,9795,57.32,227,98.34,Medio
+,09 25 25,Septiembre,Regreso,00:24:00,24,1420,7.93,182,29.32,Bajo
+,09 25 25,Septiembre,Fisio ida,00:24:00,24,1436,8.28,12,12.33,Bajo
+,09 25 25,Septiembre,Fuente de los bastones - PCC,01:24:00,84,5040,27.37,8,39.69,Bajo
+,09 26 25,Septiembre,"""Mañana Mexicana""",01:05:00,65,3915,16.85,3,30.22,Bajo
+,09 26 25,Septiembre,La Mexicana - Chayito Chayote,03:02:00,182,10907,47.89,538,137.62,Alto
+,09 26 25,Septiembre,Corriendo por el pan,00:14:00,14,839,2.09,22,8.58,Bajo
+,09 27 25,Septiembre,Parroquia del buen pastor - Freebikes,02:21:00,141,8489,42.58,318,96.95,Medio
+,09 28 25,Septiembre,Curso,00:19:00,19,1147,7.2,0,8.84,Bajo
+,09 28 25,Septiembre,De regreso corriendo a ver la NFL,00:18:00,18,1077,6.52,24,10.76,Bajo
+,09 30 25,Septiembre,Super,00:59:00,59,3563,12.96,0,27.07,Bajo
+,09 30 25,Septiembre,Ida fisio,00:28:00,28,1704,8.84,78,20.75,Bajo
+,09 30 25,Septiembre,Aniversario de Fénix Bikers - PCC,01:56:00,116,6930,40.81,11,54.93,Medio
+,09 30 25,Septiembre,2da mitad del MNF,00:05:00,5,314,1.26,36,5.9,Bajo
+,10 01 25,Octubre,Den Stygge Stesøsteren,00:24:00,24,1451,8.43,43,15.44,Bajo
+,10 02 25,Octubre,Regreso,00:26:00,26,1582,7.8,7,12.71,Bajo
+,10 02 25,Octubre,Cerro de Zacatenco - PCC,01:50:00,110,6603,31.75,241,74.87,Medio
+,10 02 25,Octubre,Mandadero,00:20:00,20,1180,4.93,2,9.4,Bajo
+,10 03 25,Octubre,Trabajo 1 y servicio,00:15:00,15,903,3.96,204,27.31,Bajo
+,10 03 25,Octubre,Línea 5 y B del Metro - Chayito Baikers,03:22:00,202,12120,70.05,4,94.1,Medio
+,10 04 25,Octubre,Recogiendo de servicio,00:13:00,13,789,3.14,7,6.68,Bajo
+,10 05 25,Octubre,CCO - PCC,08:37:00,517,31037,145.74,"2,783",516.78,Alto
+,10 07 25,Octubre,Return,00:05:00,5,300,0.9,0,2.29,Bajo
+,10 07 25,Octubre,KIA San Joaquín,00:45:00,45,2686,9.36,0,20.62,Bajo
+,10 07 25,Octubre,MNF,00:04:00,4,218,0.89,21,3.94,Bajo
+,10 09 25,Octubre,KIA Vallejo,00:31:00,31,1833,11.78,24,16.82,Bajo
+,10 09 25,Octubre,Lunch Ride,00:52:00,52,3108,16.92,5,24.58,Bajo
+,10 10 25,Octubre,Honda Lomas Verdes,01:00:00,60,3588,17.81,49,32.61,Bajo
+,10 10 25,Octubre,Aniversario Yokai - PCC,01:44:00,104,6214,27.6,82,56.1,Medio
+,10 11 25,Octubre,Power BI 1/4,00:09:00,9,558,3.41,3,4.49,Bajo
+,10 12 25,Octubre,Afternoon Ride,00:06:00,6,363,1.55,0,2.76,Bajo
+,10 12 25,Octubre,Return,00:15:00,15,900,3.5,8,7.69,Bajo
+,10 13 25,Octubre,Honda Satélite,01:21:00,81,4867,26.84,2,37.72,Bajo
+,10 13 25,Octubre,Night Ride,00:07:00,7,421,1.48,140,17.21,Bajo
+,10 14 25,Octubre,Premiere en CineDot,00:17:00,17,1020,3.9,0,7.81,Bajo
+,10 14 25,Octubre,Vueltas de castigo por olvidar las llaves,00:42:00,42,2518,16.18,6,20.15,Bajo
+,10 14 25,Octubre,Cycling,00:25:00,25,1489,7.86,332,44.76,Bajo
+,10 14 25,Octubre,DIF,00:27:00,27,1636,8.15,13,13.78,Bajo
+,10 14 25,Octubre,Coffee ride - TSC,01:36:00,96,5766,27.9,7,45.02,Bajo
+,10 14 25,Octubre,The Black Phone 2,00:17:00,17,1030,3.91,28,10.61,Bajo
+,10 15 25,Octubre,Return,00:29:00,29,1740,8.8,42,17.6,Bajo
+,10 15 25,Octubre,Corporativo Rotoplas,00:26:00,26,1535,7.86,0,12.01,Bajo
+,10 16 25,Octubre,Aniversario de BCTKs - PCC,02:21:00,141,8480,39.5,184,83.43,Medio
+,10 17 25,Octubre,Bosques de la ciudad - Yokai,01:42:00,102,6121,36.47,72,54.56,Medio
+,10 18 25,Octubre,Power BI 2/4,00:21:00,21,1233,5.06,62,15.85,Bajo
+,10 18 25,Octubre,Casas de Halloween: Echegaray/SanMateo - PCC,01:14:00,74,4432,21.5,5,34.66,Bajo
+,10 19 25,Octubre,Regresando,00:18:00,18,1098,5.23,7,9.01,Bajo
+,10 20 25,Octubre,MNF,00:09:00,9,553,2.62,2,4.35,Bajo
+,10 20 25,Octubre,Refacciones,00:26:00,26,1531,6.86,6,12.57,Bajo
+,10 20 25,Octubre,Evening Ride,00:11:00,11,665,2.89,2,5.27,Bajo
+,10 22 25,Octubre,2025-10-21Ride,01:09:00,69,4167,24,95,41.51,Bajo
+,10 22 25,Octubre,25 Aniversario FUCAM - Amigos en Bici,02:33:00,153,9202,45.01,44,75.05,Medio
+,10 23 25,Octubre,Home → Chopo,00:14:00,14,838,3.82,125,18.95,Bajo
+,10 23 25,Octubre,Verónica → Home,00:10:00,10,588,2.42,26,7.2,Bajo
+,10 23 25,Octubre,Casas Del terror - PCC,02:14:00,134,8056,52.27,0,62.39,Medio
+,10 24 25,Octubre,Unos kms extra,00:05:00,5,282,1.67,278,30.12,Bajo
+,10 24 25,Octubre,Ruta Espíritus - MICiclistas,02:29:00,149,8936,39.92,3,68.95,Medio
+,10 25 25,Octubre,GPS Cycling,03:30:00,210,12597,44.39,190,115.28,Alto
+,10 25 25,Octubre,Power BI 3/4,00:32:00,32,1912,10.28,182,33.01,Bajo
+,10 25 25,Octubre,Flextival 9,00:50:00,50,2999,15.69,39,27.03,Bajo
+,10 25 25,Octubre,Kidzania Cuicuilco - Freebikes,02:08:00,128,7705,44.3,15,60.87,Medio
+,10 27 25,Octubre,SNF semana 8,00:12:00,12,737,2.6,2,5.7,Bajo
+,10 28 25,Octubre,TSC - Chapultepec III y II,01:47:00,107,6437,31.23,375,86.9,Medio
+,10 29 25,Octubre,Ida y vuelta,00:31:00,31,1888,6.94,8,15.03,Bajo
+,10 29 25,Octubre,Entreno relax,00:40:00,40,2392,14.43,20,20.58,Bajo
+,10 30 25,Octubre,Día de Muertos- Hermandad Ciclista | PCC,02:25:00,145,8719,46.83,115,78.62,Medio
+,10 31 25,Octubre,Después del TNF,00:07:00,7,428,1.43,2,3.41,Bajo
+,10 31 25,Octubre,Fer → Home,00:03:00,3,180,1.04,3,1.69,Bajo
+,11 01 25,Noviembre,Power BI 0/4,00:47:00,47,2823,12.2,127,34.34,Bajo
+,11 01 25,Noviembre,Rodada día de muertos - Freebikes,01:59:00,119,7160,24.38,36,58.13,Medio
+,11 03 25,Noviembre,GPS Cycling,00:06:00,6,361,1.32,0,2.75,Bajo
+,11 03 25,Noviembre,SNF 10,00:04:00,4,250,1.23,2,2.05,Bajo
+,11 04 25,Noviembre,DIF → ←,00:48:00,48,2854,16.31,2,22.45,Bajo
+,11 04 25,Noviembre,MNF 10,00:10:00,10,625,2.4,17,6.3,Bajo
+,11 06 25,Noviembre,Salud Digna Tlalne → DIF → Home,01:05:00,65,3922,22.88,276,57.77,Medio
+,11 06 25,Noviembre,Escuela Superior de Guerra - PCC,01:57:00,117,7048,40.34,66,60.86,Medio
+,11 07 25,Noviembre,GPS Cycling,01:07:00,67,4046,19.55,285,59.43,Medio
+,11 07 25,Noviembre,BBVA Vallejo Pte / Vallejo,00:56:00,56,3347,18.25,21,28.03,Bajo
+,11 07 25,Noviembre,Praderas de San Mateo - MICiclistas,01:43:00,103,6173,31.99,26,50.23,Medio
+,11 08 25,Noviembre,Power BI 4/4,00:32:00,32,1933,10.61,556,70.42,Medio
+,11 08 25,Noviembre,Chiluca - Freebikes,02:28:00,148,8900,46.28,28,71.25,Medio
+,11 11 25,Noviembre,MNF en casa de Viko,00:19:00,19,1159,5.6,0,8.77,Bajo
+,11 11 25,Noviembre,BBVA Nva Sta Ma.,00:20:00,20,1175,4.18,4,9.57,Bajo
+,11 12 25,Noviembre,GPS Cycling,00:25:00,25,1510,10.04,157,27.35,Bajo
+,11 12 25,Noviembre,GEPP CeDis Tlalnepantla,01:07:00,67,4041,25.35,19,33.06,Bajo
+,11 12 25,Noviembre,Regreso del aniversario de Cletos Nocturnos - PCC,00:27:00,27,1641,10.8,53,17.88,Bajo
+,11 12 25,Noviembre,Aniversario de Cletos Nocturnos (media ruta) - PCC,01:23:00,83,4959,33.92,12,39.91,Bajo
+,11 13 25,Noviembre,DIF → BBVA Ferrería,00:51:00,51,3044,17.16,15,25.14,Bajo
+,11 14 25,Noviembre,BBVA Río Consulado,00:25:00,25,1488,8.13,424,53.98,Medio
+,11 14 25,Noviembre,La Mexicana - MICiclistas,02:12:00,132,7924,38.49,8,61.74,Medio
+,11 15 25,Noviembre,Plaza de toros La Florecita - Rata Bikers,01:54:00,114,6824,35.98,170,69.74,Medio
+,11 17 25,Noviembre,GPS Cycling,00:07:00,7,439,1.64,0,3.22,Bajo
+,11 17 25,Noviembre,One Battle After Another,00:30:00,30,1784,10.25,2,14.11,Bajo
+,11 17 25,Noviembre,SNF 11,00:15:00,15,900,3.3,3,7.18,Bajo
+,11 18 25,Noviembre,DIF →,00:38:00,38,2253,8.37,451,62.53,Medio
+,11 18 25,Noviembre,DIF ←,00:13:00,13,789,5.43,9,6.97,Bajo
+,11 18 25,Noviembre,Coffe Ride - TSC,02:21:00,141,8474,40.96,21,67.19,Medio
+,11 19 25,Noviembre,Visitando a las mormonas,00:08:00,8,495,1.77,219,25.57,Bajo
+,11 19 25,Noviembre,Líneas 9 y 1 del Metro - Chayito Baikers,03:06:00,186,11144,58.38,4,86.44,Medio
+,11 20 25,Noviembre,→ DIF ←,01:00:00,60,3600,15,107,38.3,Bajo
+,11 20 25,Noviembre,Aniversario de Azcapobike - PCC,01:37:00,97,5794,34.29,0,45.02,Bajo
+,11 21 25,Noviembre,Caseta Texcoco - MICiclistas,02:03:00,123,7389,44.72,58,62.94,Medio
+,11 22 25,Noviembre,Cárcamo de Dolores - Freebikes,02:23:00,143,8581,33.41,158,81.49,Medio
+,11 25 25,Noviembre,Trazo (ida),00:40:00,40,2401,16.1,4,19.04,Bajo
+,11 25 25,Noviembre,Trazo Atlantis regreso,00:50:00,50,3010,15.99,0,23.14,Bajo
+,11 25 25,Noviembre,MNF 11,00:09:00,9,538,2.5,83,12.45,Bajo
+,11 27 25,Noviembre,Atlantis - PCC,01:37:00,97,5790,25.53,231,67.77,Medio
+,11 28 25,Noviembre,Cena con PCC y sprint,00:57:00,57,3448,8.94,13,27.31,Bajo
+,11 29 25,Noviembre,Plaza Rufino Tamayo - Freebikes,01:55:00,115,6882,38.17,106,63.88,Medio
+,11 30 25,Noviembre,SNF 13,00:28:00,28,1659,4.44,11,13.88,Bajo
+,12 01 25,Diciembre,Misión: rescatar bicicleta de un PCC,01:19:00,79,4715,26.53,36,40.21,Bajo
+,12 02 25,Diciembre,Chapultepec III y II - TSC,02:01:00,121,7279,37.8,434,99.36,Medio
+,12 03 25,Diciembre,DIF,00:55:00,55,3316,17.08,108,36.23,Bajo
+,12 04 25,Diciembre,MUAC - PCC,02:12:00,132,7944,45.81,245,85.73,Medio
+,12 05 25,Diciembre,Gorditas de Mixcoac - MICiclistas,02:06:00,126,7559,29.31,115,69.37,Medio
+,12 07 25,Diciembre,Líneas 12 y 8 del Metro - Chayito Baikers,04:00:00,240,14383,81.18,220,133.25,Alto
+,12 09 25,Diciembre,Chapultepec III y II - TSC,01:37:00,97,5815,28.82,5,45.3,Bajo
+,12 09 25,Diciembre,MNF 14,00:16:00,16,952,3.54,296,36.94,Bajo
+,12 10 25,Diciembre,Evening Ride,00:07:00,7,418,2.29,5,3.74,Bajo
+,12 10 25,Diciembre,Premiere The Threesome,00:08:00,8,479,2.28,0,3.69,Bajo
+,12 12 25,Diciembre,Afternoon Ride,00:14:00,14,840,2,63,12.68,Bajo
+,12 12 25,Diciembre,Stranger Things - PCC,01:04:00,64,3842,21.89,0,29.68,Bajo
+,12 13 25,Diciembre,GPS Cycling,00:03:00,3,192,1.01,0,1.39,Bajo
+,12 13 25,Diciembre,Afternoon Ride,00:10:00,10,600,0.9,0,4.54,Bajo
+,12 13 25,Diciembre,Night Ride,00:17:00,17,1020,1.1,0,7.69,Bajo
+,12 13 25,Diciembre,Evening Ride,00:22:00,22,1320,1.8,0,9.97,Bajo
+,12 14 25,Diciembre,Reto Finsus 2025 - PCC,01:00:00,60,3606,30,11,29.3,Bajo
+,12 15 25,Diciembre,Evening Ride,00:45:00,45,2720,5.42,16,22.07,Bajo
+,12 16 25,Diciembre,MNF 15,00:04:00,4,265,1.32,0,1.85,Bajo
+,12 17 25,Diciembre,Posada Chayito Baikers,00:43:00,43,2586,13.21,14,21.28,Bajo
+,12 18 25,Diciembre,Plaza Parque Duraznos - PCC,01:42:00,102,6127,31.59,308,77.96,Medio
+,12 22 25,Diciembre,MNF 16,00:15:56,15,900,3.27,2,7.08,Bajo
+,12 23 25,Diciembre,Coffee Ride Chapultepec,01:45:17,105,6300,35.45,289,77.57,Medio

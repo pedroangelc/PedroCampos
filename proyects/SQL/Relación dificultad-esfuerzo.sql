@@ -1,0 +1,7 @@
+SELECT
+  DIFICULTAD,
+  COUNT(*) AS sesiones,
+  ROUND(AVG(ESFUERZO), 2) AS esfuerzo_promedio
+FROM RENDIMIENTO_2025
+GROUP BY DIFICULTAD
+ORDER BY esfuerzo_promedio DESC;
