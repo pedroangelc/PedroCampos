@@ -10,7 +10,7 @@ Analizar el volumen, la consistencia y el rendimiento del entrenamiento a lo lar
 Fuente: Strava  
 Base de datos: SQLite  
 Tabla: RENDIMIENTO_2025  
-Variables clave: fecha, mes, ruta, distancia, tiempo, altimetría, esfuerzo, dificultad
+Variables clave: fecha, mes, ruta, distancia, tiempo, altimetría, esfuerzo, dificultad  
 Periodo: 2025
 
 ## Procesos aplicados
