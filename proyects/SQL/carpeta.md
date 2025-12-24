@@ -32,4 +32,4 @@
 [VolumenMensual.png](VolumenMensual.png)  
 [VolumenMensual.sql](VolumenMensual.sql)  
 
-## [Regresar a Proyectos/SQL](..SQL/index.md)
+## [Regresar a Proyectos/SQL](index.md)
