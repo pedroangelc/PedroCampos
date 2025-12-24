@@ -1,27 +1,27 @@
 # Análisis de rendimiento en ciclismo – SQL + Excel + Power BI
 ## Descripción
 Proyecto de análisis de datos personales de ciclismo basado en registros históricos de entrenamiento.
-Los datos fueron extraídos de Strava, limpiados en Excel y almacenados en una base de datos SQLite para su análisis mediante SQL y posterior visualización en Excel.
+Los datos fueron extraídos de Strava, limpiados en Excel y almacenados en una base de datos SQLite para su análisis mediante SQL y posterior visualización en Excel y Pwoer BI.
 
 ## Objetivo
 Analizar el volumen, la consistencia y el rendimiento del entrenamiento a lo largo del tiempo, evaluando distancia, duración, esfuerzo y dificultad de las sesiones para identificar patrones y oportunidades de mejora.
 
 ## Dataset
-Fuente: Strava  
-Base de datos: SQLite  
-Tabla: RENDIMIENTO_2025  
-Variables clave: fecha, mes, ruta, distancia, tiempo, altimetría, esfuerzo, dificultad  
-Periodo: 2025
+- Fuente: Strava
+- Base de datos: SQLite
+- Tabla: RENDIMIENTO_2025
+- Variables clave: fecha, mes, ruta, distancia, tiempo, altimetría, esfuerzo, dificultad
+- Periodo: 2025
 
 ## Procesos aplicados
-Limpieza y estandarización de datos en Excel
-Carga y modelado en base de datos SQLite
-Definición de métricas mediante consultas SQL
-Agregación temporal y análisis descriptivo
-Exportación de resultados para visualización
+- Limpieza y estandarización de datos en Excel
+- Carga y modelado en base de datos SQLite
+- Definición de métricas mediante consultas SQL
+- Agregación temporal y análisis descriptivo
+- Exportación de resultados para visualización
 
 ## Consultas SQL
-Las consultas se encuentran documentadas en la carpeta /queries e incluyen:
+Las consultas se encuentran documentadas en la carpeta de archivos e incluyen:
 - Volumen mensual de entrenamiento
 - Tiempo total y promedio por periodo
 - Análisis por ruta
@@ -29,6 +29,7 @@ Las consultas se encuentran documentadas en la carpeta /queries e incluyen:
 - Ranking de sesiones
 - Métricas resumen
 - Visualización
+
 ## Los resultados de las consultas SQL se consumen en Excel para:
 - Gráficas de tendencia mensual
 - Rankings por ruta
@@ -84,6 +85,6 @@ Dashboard Power BI  <div style="top: 10px; right: 10px;">
   </a>
   
 ## Carpeta de archivos
-[Carpeta](carpeta.md)
+[Archivos](carpeta.md)
 
 ## [← Regresar a Proyectos/SQL](../SQL/index.md)
