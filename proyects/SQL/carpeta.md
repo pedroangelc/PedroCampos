@@ -1,22 +1,33 @@
-Relación dificultad-esfuerzo
-Relación dificultad-esfuerzo
-Relación dificultad-esfuerzo
-Relación dificultad-esfuerzo
-Rendimiento 2025
-Rendimiento 2025
-Rendimiento_2025
-Tiempo total y promedio por mes
-Tiempo total y promedio por mes
-Tiempo total y promedio por mes
-Tiempo total y promedio por mes
-Velocidad media estimada
-Velocidad media estimada
-Velocidad media estimada
-Velocidad media estimada
-Visualización
-Visualización
-Visualización
-Volumen mensual
-Volumen mensual
-Volumen mensual
-Volumen mensual
+[AnalisisPorRuta.csv](AnalisisPorRuta.csv)  
+[AnalisisPorRuta.jpg](AnalisisPorRuta.jpg)  
+[AnalisisPorRuta.sql](AnalisisPorRuta.sql)  
+[Dashboard.jpg](Dashboard.jpg)  
+[Dashboard.pdf](Dashboard.pdf)  
+[MetricasResumen.csv](MetricasResumen.csv)  
+[MetricasResumen.jpg](MetricasResumen.jpg)  
+[MetricasResumen.sql](MetricasResumen.sql)  
+[RankingDeSesiones.csv](RankingDeSesiones.csv)  
+[RankingDeSesiones.jpg](RankingDeSesiones.jpg)  
+[RankingDeSesiones.sql](RankingDeSesiones.sql)  
+[RelaciónDificultadEsfuerzo.csv](RelaciónDificultadEsfuerzo.csv)  
+[RelaciónDificultadEsfuerzo.jpg](RelaciónDificultadEsfuerzo.jpg)  
+[RelaciónDificultadEsfuerzo.png](RelaciónDificultadEsfuerzo.png)  
+[RelaciónDificultadEsfuerzo.sql](RelaciónDificultadEsfuerzo.sql)  
+[Rendimiento2025.db](Rendimiento2025.db)  
+[Rendimiento2025.pbix](Rendimiento2025.pbix)  
+[Rendimiento_2025.csv](Rendimiento_2025.csv)  
+[TiempoTotal yPromedioPorMes.sql](TiempoTotalyPromedioPorMes.sql)  
+[TiempoTotalyPromedioPorMes.csv](TiempoTotalyPromedioPorMes.csv)  
+[TiempoTotalyPromedioPorMes.jpg](TiempoTotalyPromedioPorMes.jpg)  
+[TiempoTotalyPromedioPorMes.png](TiempoTotalyPromedioPorMes.png)  
+[VelocidadMediaEstimada.csv](VelocidadMediaEstimada.csv)  
+[VelocidadMediaEstimada.jpg](VelocidadMediaEstimada.jpg)  
+[VelocidadMediaEstimada.png](VelocidadMediaEstimada.png)  
+[VelocidadMediaEstimada.sql](VelocidadMediaEstimada.sql)  
+[Visualizacion.csv](Visualizacion.csv)  
+[Visualizacion.jpg](Visualizacion.jpg)  
+[Visualizacion.sql](Visualizacion.sql)  
+[VolumenMensual.csv](VolumenMensual.csv)  
+[VolumenMensual.jpg](VolumenMensual.jpg)  
+[VolumenMensual.png](VolumenMensual.png)  
+[VolumenMensual.sql](VolumenMensual.sql)  
