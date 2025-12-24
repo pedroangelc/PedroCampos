@@ -52,14 +52,16 @@ Consultas SQL
   <a href="AnalisisPorRuta.jpg" target="_blank">
     <img src="AnalisisPorRuta.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
+  </div>
   <div style="top: 10px; right: 10px;">
   <a href="MetricasResumen.jpg" target="_blank">
     <img src="MetricasResumen.jpg" style="width:420px; height:auto; border-radius:8px;">
   </a>
+   </div>
   <div style="top: 10px; right: 10px;">
   <a href="RankingDeSesiones.jpg" target="_blank">
     <img src="RankingDeSesiones.jpg" style="width:420px; height:auto; border-radius:8px;">
-  </a>
+  </a></div>
   <div style="top: 10px; right: 10px;">
   <a href="RelacionDificultadEsfuerzo.jpg" target="_blank">
     <img src="RelacionDificultadEsfuerzo.jpg" style="width:420px; height:auto; border-radius:8px;">
@@ -70,19 +72,23 @@ Gráficas en Excel
   <a href="RelacionDificultadEsfuerzo.png" target="_blank">
     <img src="RelacionDificultadEsfuerzo.png" style="width:420px; height:auto; border-radius:8px;">
   </a>
+  </div>
   <div style="top: 10px; right: 10px;">
   <a href="VolumenMensual.png" target="_blank">
     <img src="VolumenMensual.png" style="width:420px; height:auto; border-radius:8px;">
   </a>
+   </div>
   <div style="top: 10px; right: 10px;">
   <a href="TiempoTotalyPromedioPorMes.png" target="_blank">
     <img src="TiempoTotalyPromedioPorMes.png" style="width:420px; height:auto; border-radius:8px;">
-  </a></div>
+  </a>
+  </div>
 
 Dashboard Power BI  <div style="top: 10px; right: 10px;">
   <a href="Dashboard.jpg" target="_blank">
     <img src="Dashboard.jpg" style="width:420px; height:auto; border-radius:8px;">
-  </a></div>
+  </a>
+  </div>
 
 ## Carpeta de archivos
 [Archivos](carpeta.md)
